@@ -1,9 +1,6 @@
 # Technical Assesment
 
-Task: Job Title Classification
-
-Objective: 
-Build a solution that assigns the single best-fitting category to each job title from the provided datasets.
+## Task: Job Title Classification
 
 ---
 
